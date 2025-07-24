@@ -1,3 +1,1 @@
 {“tool”:“graphic_art”,“prompt”:“High-fidelity wireframe style prototype for Lukvel.rs homepage redesign: header with ‘LUKVEL’ logo, top navigation menu, hero section with bold headline and CTA button, four service category icons with labels, featured products grid with images and titles, client testimonials slider, newsletter signup form, and footer with contact details, social media icons, and secondary links. Clean, modern layout with blue and white color scheme, desktop view.”}
-
-Prvi vizualni prototip 
